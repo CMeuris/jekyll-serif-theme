@@ -1,4 +1,4 @@
-baseurl: 'https://github.com/CMeuris/jekyll-serif-theme/'
+baseurl: '/jekyll-serif-theme/'
 permalink: pretty
 title: 'Jekyll Serif'
 
